@@ -1,0 +1,2 @@
+# sri
+subresource integrity
